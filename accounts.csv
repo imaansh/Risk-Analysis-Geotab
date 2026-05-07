@@ -1,0 +1,114 @@
+﻿customer_id,company_name,country,industry,fleet_size,subscription_tier,mrr,contract_end_date,last_login_days_ago,support_tickets_last_90d
+CUST-001,Crawford Haulage,United Kingdom,"""Transportation and Warehousing""",6494,Enterprise,101944.94,5/26/2026,119,22
+CUST-002,Gibson Fleet,United Kingdom,"""Transportation and Warehousing""",14212,Enterprise,114350.75,1/10/2028,29,64
+CUST-003,Richter Distribution GmbH,Germany,"""Transportation and Warehousing""",6842,Enterprise,97222.47,11/14/2025,119,5
+CUST-004,Whitmore Logistics,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",11703,Enterprise,90623.99,12/14/2026,70,27
+CUST-005,Romero Flota,Spain,"""Transportation and Warehousing""",4808,Enterprise,85785.15,1/8/2027,12,16
+CUST-006,Rodriguez Logistica,Spain,"""Finance, Real Estate, Rental, and Insurance""",25409,Professional,79437.05,7/28/2026,249,33
+CUST-007,Barker Freight,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",5290,Essentials,56675.46,8/1/2025,118,6
+CUST-008,Carter Distribution,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",8938,Professional,64676.81,2/4/2026,238,508
+CUST-009,Neumann Spedition,Germany,"""Transportation and Warehousing""",5436,Enterprise,53048.31,7/18/2027,11,7
+CUST-010,Ferrari Distribuzione,Italy,"""Finance, Real Estate, Rental, and Insurance""",8481,Essentials,43961.21,4/16/2028,15,7
+CUST-011,Janssens Transport,Belgium,"""Transportation and Warehousing""",6215,Professional,41042.75,7/26/2026,24,17
+CUST-012,Kelly Haulage UK,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",8062,Essentials,34474.87,3/22/2026,223,17
+CUST-013,Murphy Transport Ireland,Ireland,"""Media, Entertainment, and Technology""",3691,Enterprise,32538.83,7/23/2026,62,59
+CUST-014,Van den Berg Transport,Netherlands,"""Manufacturing, Retail and Wholesale Trade""",4987,Enterprise,33278.97,5/25/2026,112,6
+CUST-015,Andersen Trucks,Canada,"""Transportation and Warehousing""",2828,Enterprise,32304.24,6/6/2026,17,90
+CUST-016,Roux Fret,France,"""Finance, Real Estate, Rental, and Insurance""",9256,Essentials,34280.93,7/10/2027,9,4
+CUST-017,Bergstrim Freight,Sweden,"""Public Administration and Waste Management""",2076,Enterprise,28276.16,2/21/2027,65,26
+CUST-018,Dubois Fleet Services,France,"""Finance, Real Estate, Rental, and Insurance""",2873,Enterprise,23704.46,10/8/2026,9,7
+CUST-019,Dixon Transport,United Kingdom,"""Construction and Specialty Trades""",1978,Enterprise,25200.49,6/10/2026,150,9
+CUST-020,Baxter Distribution,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",2291,Professional,24696.84,11/27/2026,71,10
+CUST-021,Shaw Transport,United Kingdom,"""Media, Entertainment, and Technology""",2245,Enterprise,20069.07,1/28/2027,116,59
+CUST-022,Lloyd Distribution,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",1661,Enterprise,19093.22,10/18/2026,39,32
+CUST-023,Reid Freight,United Kingdom,"""Professional, Administrative, and Consumer Serv...""",1573,Enterprise,17714.43,7/23/2026,283,14
+CUST-024,Rossi Logistics,Italy,"""Transportation and Warehousing""",1871,Enterprise,19154.88,3/7/2026,282,104
+CUST-025,Howard Logistics,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",2599,Enterprise,13571.52,1/20/2027,101,21
+CUST-026,Moreau Logistique,France,"""Finance, Real Estate, Rental, and Insurance""",1445,Enterprise,13702.01,11/16/2027,3,91
+CUST-027,Leclerc Distribution,France,"""Transportation and Warehousing""",1224,Enterprise,14184.28,10/17/2026,17,60
+CUST-028,Mason Transport,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",826,Enterprise,13109.39,12/22/2027,5,5
+CUST-029,Colombo Logistica,Italy,"""Manufacturing, Retail and Wholesale Trade""",1658,Professional,14611.38,11/15/2027,5,11
+CUST-030,Hoffmann Fracht,Germany,"""Manufacturing, Retail and Wholesale Trade""",748,Enterprise,14413.85,8/31/2026,69,15
+CUST-031,Thornton Haulage,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",822,Enterprise,12187.15,2/23/2026,175,95
+CUST-032,Chambers Distribution,United Kingdom,"""Transportation and Warehousing""",4717,Essentials,12325.89,10/18/2026,207,5
+CUST-033,Fischer Haulage,Germany,"""Natural Resources, Agriculture, and Utilities""",919,Professional,11797.08,4/4/2028,36,5
+CUST-034,Blake Transport UK,United Kingdom,"""Media, Entertainment, and Technology""",1326,Enterprise,11539.49,5/12/2026,33,59
+CUST-035,Ferguson Fleet Services,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",1039,Professional,10539.4,5/29/2026,23,75
+CUST-036,S nchez Log¡stica,Spain,"""Manufacturing, Retail and Wholesale Trade""",805,Enterprise,11653.68,3/17/2027,9,23
+CUST-037,Maxwell Freight,United Kingdom,"""Accommodation s, Leisure, and Recreation""",1981,Essentials,10864.02,8/18/2027,7,1
+CUST-038,Armstrong Distribution,United Kingdom,"""Transportation and Warehousing""",866,Enterprise,9865.81,5/17/2027,27,10
+CUST-039,Botha Logistics,South Africa,"""Manufacturing, Retail and Wholesale Trade""",1907,Professional,9661.49,10/31/2027,11,15
+CUST-040,Steinbach Logistics,Germany,"""Media, Entertainment, and Technology""",1265,Enterprise,10757.34,2/10/2028,60,11
+CUST-041,Henderson Fleet Services,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",869,Professional,9074.92,10/12/2026,33,16
+CUST-042,Robin Fret,France,"""Finance, Real Estate, Rental, and Insurance""",1295,Essentials,8092.51,1/8/2027,100,47
+CUST-043,O'Sullivan Haulage,Ireland,"""Transportation and Warehousing""",797,Professional,8150.34,11/26/2026,84,0
+CUST-044,Doyle Logistics,Ireland,"""Manufacturing, Retail and Wholesale Trade""",532,Professional,8801.56,4/8/2027,19,2
+CUST-045,Gil Log¡stica,Spain,"""Transportation and Warehousing""",513,Enterprise,7572.72,5/8/2026,156,9
+CUST-046,Mulder Transport,Netherlands,"""Transportation and Warehousing""",657,Professional,8125.58,6/15/2025,294,80
+CUST-047,Herrero Log¡stica,Spain,"""Finance, Real Estate, Rental, and Insurance""",1819,Essentials,8259.53,10/14/2026,20,1
+CUST-048,Jansen Transport,Netherlands,"""Manufacturing, Retail and Wholesale Trade""",923,Enterprise,7036.98,12/31/2026,10,15
+CUST-049,Murray Freight,United Kingdom,"""Public Administration and Waste Management""",722,Enterprise,7458.27,10/24/2026,46,21
+CUST-050,Laurent Transport,France,"""Professional, Administrative, and Consumer Serv...""",979,Enterprise,6586.6,1/28/2028,10,0
+CUST-051,Mller Freight GmbH,Germany,"""Transportation and Warehousing""",530,Enterprise,6858.43,2/9/2028,10,23
+CUST-052,Al-Rashid Logistics,Morocco,"""Manufacturing, Retail and Wholesale Trade""",1100,Enterprise,6584.72,10/26/2026,3,17
+CUST-053,Kowalski Haulage,Poland,"""Manufacturing, Retail and Wholesale Trade""",840,Professional,6384.67,8/11/2026,150,11
+CUST-054,Larson Transport,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",2165,Essentials,5812.63,1/17/2027,88,1
+CUST-055,Grant Haulage,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",481,Essentials,6562.92,2/8/2027,83,6
+CUST-056,Blanc Transport,France,"""Natural Resources, Agriculture, and Utilities""",911,Enterprise,5928.63,6/24/2026,151,17
+CUST-057,Hartmann Fracht,Germany,"""Transportation and Warehousing""",460,Enterprise,5591.09,5/4/2026,44,10
+CUST-058,Moreno Transporte,Spain,"""Finance, Real Estate, Rental, and Insurance""",1063,Enterprise,5400.69,8/21/2027,68,1
+CUST-059,Al-Maktoum Fleet Services,"United Arab
+Emirates","""Construction and Specialty Trades""",478,Enterprise,5976.32,8/11/2026,2,34
+CUST-060,Van Niekerk Transport,South Africa,"""Manufacturing, Retail and Wholesale Trade""",534,Professional,5614.14,12/9/2027,11,15
+CUST-061,Navarro Distribuci¢n,Spain,"""Manufacturing, Retail and Wholesale Trade""",681,Enterprise,4822.38,10/12/2026,70,19
+CUST-062,Ruiz Flota,Spain,"""Manufacturing, Retail and Wholesale Trade""",342,Enterprise,5117.82,2/4/2027,29,18
+CUST-063,Elliott Transport,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",384,Essentials,4636.87,7/18/2027,35,0
+CUST-064,L¢pez Flota,Spain,"""Transportation and Warehousing""",543,Professional,5044.09,2/19/2028,103,0
+CUST-065,Krause Logistik,Germany,"""Manufacturing, Retail and Wholesale Trade""",333,Enterprise,4475.3,12/17/2026,70,8
+CUST-066,Palmer Logistics,United Kingdom,"""Media, Entertainment, and Technology""",515,Enterprise,4950.62,6/30/2026,53,59
+CUST-067,Patel Freight UK,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",246,Enterprise,4502.45,3/26/2027,30,0
+CUST-068,Clarke Fleet Services,United Kingdom,"""Transportation and Warehousing""",334,Essentials,4928.29,10/14/2026,5,0
+CUST-069,Wells Haulage,United Kingdom,"""Transportation and Warehousing""",347,Professional,4181.55,9/24/2026,11,8
+CUST-070,Fern ndez Transporte,Spain,"""Finance, Real Estate, Rental, and Insurance""",1398,Essentials,4325.52,9/1/2027,28,2
+CUST-071,Mancini Trasporti,Italy,"""Transportation and Warehousing""",582,Enterprise,4071.65,4/2/2027,2,8
+CUST-072,Weber Distribution,Germany,"""Unassigned""",410,Essentials,4726.84,5/31/2027,43,0
+CUST-073,Bernard Fret,France,"""Transportation and Warehousing""",386,Enterprise,4506.21,2/27/2027,160,0
+CUST-074,De Groot Logistics,Netherlands,"""Unassigned""",464,Essentials,3970.04,9/30/2026,2,0
+CUST-075,Leroy Distribution,France,"""Professional, Administrative, and Consumer Serv...""",325,Enterprise,4226.03,9/28/2026,12,0
+CUST-076,Torres Transporte,Spain,"""Manufacturing, Retail and Wholesale Trade""",615,Enterprise,4278.78,10/28/2027,18,68
+CUST-077,De Vries Transport,Netherlands,"""Manufacturing, Retail and Wholesale Trade""",451,Professional,3761.07,10/10/2027,7,7
+CUST-078,Brennan Fleet Services,Ireland,"""Manufacturing, Retail and Wholesale Trade""",266,Essentials,3557.82,10/31/2026,82,0
+CUST-079,Ferreira Transportes,Portugal,"""Natural Resources, Agriculture, and Utilities""",424,Enterprise,3262.48,5/24/2026,88,52
+CUST-080,Pearson Haulage,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",276,Enterprise,3123.19,8/6/2026,100,13
+CUST-081,Chevalier Fleet,France,"""Unassigned""",260,Essentials,3572.85,12/2/2026,58,0
+CUST-082,Fournier Logistique,France,"""Public Administration and Waste Management""",623,Professional,3547.85,7/30/2027,45,3
+CUST-083,Garc¡a Flota,Spain,"""Public Administration and Waste Management""",461,Enterprise,3330.42,5/13/2026,156,26
+CUST-084,™ztrk Nakliyat,Turkey,"""Transportation and Warehousing""",499,Professional,3110.53,3/8/2027,9,6
+CUST-085,Schr”der Transport GmbH,Germany,"""Transportation and Warehousing""",218,Enterprise,2961.17,8/24/2026,10,1
+CUST-086,Walsh Haulage,United Kingdom,"""Construction and Specialty Trades""",282,Professional,3136.42,1/5/2028,3,15
+CUST-087,Hunter Logistics,United Kingdom,"""Manufacturing, Retail and Wholesale Trade""",321,Professional,3231.28,9/20/2027,86,2
+CUST-088,Marchand Transport,France,"""Transportation and Warehousing""",133,Enterprise,3221.48,3/10/2028,19,0
+CUST-089,Fletcher Transport,United Kingdom,"""Construction and Specialty Trades""",139,Essentials,3049.66,4/28/2027,7,0
+CUST-090,Ricci Logistica,Italy,"""Transportation and Warehousing""",341,Professional,2915.55,9/8/2026,39,9
+CUST-091,Smit Distribution,Netherlands,"""Manufacturing, Retail and Wholesale Trade""",434,Professional,2513.39,10/20/2027,6,98
+CUST-092,Visser Fleet Services,Netherlands,"""Finance, Real Estate, Rental, and Insurance""",557,Essentials,2523.86,4/20/2028,65,4
+CUST-093,Garrett Fleet Services,United Kingdom,"""Finance, Real Estate, Rental, and Insurance""",1109,Essentials,2864.08,1/26/2027,33,5
+CUST-094,Bauer Logistics,Germany,"""Transportation and Warehousing""",152,Enterprise,2701.46,12/29/2027,33,6
+CUST-095,Spencer Haulage,United Kingdom,"""Unassigned""",507,Essentials,2371.96,9/27/2026,3,0
+CUST-096,Mart¡nez Transporte,Spain,"""Transportation and Warehousing""",326,Professional,2378.34,2/2/2027,67,16
+CUST-097,Klopp Spedition,Germany,"""Transportation and Warehousing""",196,Professional,2503.99,11/23/2027,20,2
+CUST-098,Girard Fleet,France,"""Transportation and Warehousing""",187,Enterprise,2163.47,10/4/2026,8,10
+CUST-099,Huber Spedition,Austria,"""Unassigned""",181,Essentials,2227.4,7/8/2027,1,0
+CUST-100,Sutton Distribution,United Kingdom,"""Unassigned""",126,Essentials,2411.83,6/20/2026,224,0
+CUST-101,Mercier Distribution,France,"""Manufacturing, Retail and Wholesale Trade""",431,Essentials,2451.76,11/28/2025,361,4
+CUST-102,Conti Logistica,Italy,"""Manufacturing, Retail and Wholesale Trade""",191,Essentials,2414.7,9/2/2027,58,4
+CUST-103,Renaud Logistique,France,"""Media, Entertainment, and Technology""",225,Enterprise,2196.96,1/14/2028,12,3
+CUST-104,Bakker Logistics,Netherlands,"""Public Administration and Waste Management""",191,Enterprise,2389.26,4/4/2027,187,0
+CUST-105,Nowak Trans,Poland,"""Construction and Specialty Trades""",53,Enterprise,2131.76,12/21/2026,140,0
+CUST-106,Esposito Distribuzione,Italy,"""Construction and Specialty Trades""",126,Enterprise,2149.23,2/23/2028,46,0
+CUST-107,Dupont Transport,France,"""Professional, Administrative, and Consumer Serv...""",357,Professional,2330.52,11/13/2026,25,0
+CUST-108,Ortega Distribuci¢n,Spain,"""Professional, Administrative, and Consumer Serv...""",243,Professional,2249.11,1/11/2027,1,7
+CUST-109,Bianchi Trasporti,Italy,"""Transportation and Warehousing""",200,Enterprise,2317.11,3/12/2028,7,12
+CUST-110,Romano Trasporti,Italy,"""Manufacturing, Retail and Wholesale Trade""",154,Enterprise,2212.62,3/14/2026,350,0
+CUST-111,O'Brien Logistics,United Kingdom,"""Natural Resources, Agriculture, and Utilities""",239,Enterprise,2161.02,1/3/2027,24,0
+,,,"""""",,,,,,
