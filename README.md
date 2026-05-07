@@ -67,7 +67,7 @@ A weighted scoring approach is used to reflect **real-world churn drivers in Saa
 - **Fleet Size Risk (10%)**  
   *Lower weight because it reflects account scale, not immediate churn behavior.*
 
-👉 The weights prioritize **behavioral + contractual signals over static account attributes**, ensuring the model is predictive rather than descriptive.
+The weights prioritize **behavioral + contractual signals over static account attributes**, ensuring the model is predictive rather than descriptive.
 
 ---
 
